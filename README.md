@@ -31,7 +31,7 @@ https://github.com/AbrarChowdhry98/abrar-deployed-portfolio
 
 
 # Abrar-portfolio-screenshot
-![deployed-portfolio-Screenshot ](./assets/images/deployed website screenshot.png)
+![deployed-portfolio-Screenshot ](https://github.com/AbrarChowdhry98/abrar-deployed-portfolio/blob/main/Assets/Images/Deployed%20Website%20Screenshot.png)
 
 # Markup
 ![02-advanced-css-homework-demo](https://user-images.githubusercontent.com/57843842/125211900-c5a76680-e277-11eb-8a79-b288d76951ee.gif)
