@@ -27,7 +27,7 @@ THEN I am presented with the developer's name, a recent photo or avatar, and lin
 
 
 # GitHub Repository
-
+https://github.com/AbrarChowdhry98/abrar-deployed-portfolio
 
 
 # Abrar-portfolio-screenshot
