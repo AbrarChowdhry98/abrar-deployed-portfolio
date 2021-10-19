@@ -34,12 +34,12 @@ THEN I am presented with the developer's name, a recent photo or avatar, and lin
 ![deployed-portfolio-Screenshot ]()
 
 # Markup
-![02-advanced-css-homework-demo](f)
+![02-advanced-css-homework-demo](https://user-images.githubusercontent.com/57843842/125211900-c5a76680-e277-11eb-8a79-b288d76951ee.gif)
 
 
 
 # Markup
-![02-advanced-css-homework-demo]()
+![02-advanced-css-homework-demo](https://user-images.githubusercontent.com/57843842/125211900-c5a76680-e277-11eb-8a79-b288d76951ee.gif)
 
 
 # Installation 
